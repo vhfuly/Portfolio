@@ -24,6 +24,7 @@ function Header(){
     <Navbar.Menu>
       <Navbar.Segment align="start">
       <Link to='/'><Navbar.Item>Sobre</Navbar.Item></ Link>
+      <Link to='/projects'> <Navbar.Item>Projetos</Navbar.Item></ Link>
       <Link to='/contact'> <Navbar.Item>Contato</Navbar.Item></ Link>
       </Navbar.Segment>
     </Navbar.Menu>
