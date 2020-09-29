@@ -1,5 +1,5 @@
 import React from 'react';
-import { Column, Content, Image, Control, Button, Icon, Label, Textarea, Card } from 'rbx';
+import { Column, Content, Image,Card } from 'rbx';
 
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
