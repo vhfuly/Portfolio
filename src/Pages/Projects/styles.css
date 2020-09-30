@@ -1,3 +1,29 @@
 div.columns.group{
   margin: auto 20px;
 }
+
+div.siteCard{
+  min-height: 420px ;
+  
+
+}
+
+img.sitePicture{
+  
+  
+  max-height: 126px;
+
+  display: flex;
+  justify-content: center;
+  align-self: center;
+
+  margin: auto;
+  margin-top: 20px;
+  
+}
+
+div.siteContent{
+  min-height: 250px ;
+}
+
+

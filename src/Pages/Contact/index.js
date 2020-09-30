@@ -57,7 +57,7 @@ function Contact() {
         </Field>
         <Field>
           <Control>
-            <Button color="primary" type="submit">Enviar</Button>
+            <Button className="is-dark is-outlined " type="submit">Enviar</Button>
           </Control>
         </Field>
         </form>

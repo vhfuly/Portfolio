@@ -83,9 +83,14 @@ function About() {
               <Card.Header.Title>Formação</Card.Header.Title>
             </Card.Header>
             <Card.Content>
+            <Content>
+                <Title size={5}>Cod3r Cursos online - Desenvolvedor Web</Title>
+                <p>Javascript, ESNext, Angular, Ajax, React, Vue, Node, HTML, CSS, jQuery, Bootstrap,Webpack,
+                  Gulp, Banco de Dados Relacional, Banco de Dados Não Relacional, Express e Electron </p>
+              </Content>
               <Content>
                 <Title size={5}>OneBitCode - Desenvolvedor Full Stack Javascript</Title>
-                <p>React, NodeJs , CSS, HTML, MongoDB e JavaScript</p>
+                <p>React, NodeJs, CSS, HTML, MongoDB e JavaScript</p>
               </Content>
               <Content>
                 <Title size={5}>ETEC de São Paulo - Técnico em Eletrônica</Title>

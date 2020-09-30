@@ -30,8 +30,8 @@ function CardMain() {
                     <br />
                     <p>victor_hugo_fuly@hotmail.com</p>
                     <br />
-                    <a href="https://www.linkedin.com/in/victor-hugo-fuly/" target="_blank" rel="noopener noreferrer"><span className="button is-primary buttonLinkedin">Linkedin</span></a>
-                    <a href="https://github.com/vhfuly" target="_blank" rel="noopener noreferrer" ><span className="button is-primary">Github</span></a>
+                    <a href="https://www.linkedin.com/in/victor-hugo-fuly/" target="_blank" rel="noopener noreferrer"><span className="button is-dark is-outlined buttonLinkedin">Linkedin</span></a>
+                    <a href="https://github.com/vhfuly" target="_blank" rel="noopener noreferrer" ><span className="button is-dark is-outlined ">Github</span></a>
 
           </Content>
         </Card.Content>
