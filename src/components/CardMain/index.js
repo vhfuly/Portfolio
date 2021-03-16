@@ -25,8 +25,8 @@ function CardMain() {
             </Media.Item>
           </Media>
           <Content>
-                    <p>(11) 99922-2735</p>
                     <p>(11) 96251-9372</p>
+                    <p>(41) 99522-4191</p>
                     <br />
                     <p>victor_hugo_fuly@hotmail.com</p>
                     <br />

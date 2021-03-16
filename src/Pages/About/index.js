@@ -28,7 +28,7 @@ function About() {
             </Card.Header>
             <Card.Content>
               <Content>
-                <p>Sou Victor Hugo Fuly atualmente moro no Brasil, São Paulo. Sou um amante
+                <p>Sou Victor Hugo Fuly atualmente moro no Brasil, Curitiba. Sou um amante
                 de tecnologia principalmente web e mobile. As tecnologias que estudo e faço
                 meus projetos são Javascript, React, NodeJS e React Native No meu tempo livre
       gosto de estudar, jogar basquete, ouvir música e tocar bateria.</p>
@@ -53,7 +53,7 @@ function About() {
                 <Content>
                   <Title size={5}>Fullstack Software Engineer <Tag color='dark'>Adireto</Tag></Title>
                   <p>Desenvolvimento web fullstack, utilizando as tecnologias: Typescript, Nestjs, React, RabbitMQ,
-                    MongoDB, GraphicQL eRedis.</p>
+                    MongoDB, GraphicQL e Redis.</p>
                   <p>Consulta em APIs externas </p>
                   <p>Tratamento de dados</p>
                   <p>Criação de interfaces</p>

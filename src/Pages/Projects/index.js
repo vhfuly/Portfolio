@@ -43,7 +43,15 @@ function Projects() {
       description: "Um player de músicas personalizado, com algumas músicas a quais fiz um cover da bateria.",
       link: "https://fulyplay.netlify.app/",
       image: require("../../assets/player.png") ,
+    },
+    {
+      name: "Moveit",
+      description: "Um site para quem trabalha muito tempo parado, ajudando a nos exercitar. Desenvolvido na NWL, porém acrescentado vários novos recursos.",
+      link: "https://moveit-mu-two.vercel.app/",
+      image: require("../../assets/moveit.png") ,
     }
+
+  
   ]
   return (
     <div >
