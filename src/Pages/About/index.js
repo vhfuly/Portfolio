@@ -6,6 +6,7 @@ import CardMain from '../../components/CardMain';
 
 import ConsistecImg from '../../assets/consistec.png';
 import TradeImg from '../../assets/logo-tradework.png';
+import AdiretoImg from '../../assets/adireto.png';
 
 import './styles.css';
 
@@ -39,6 +40,27 @@ function About() {
               <Card.Header.Title>Experiências</Card.Header.Title>
             </Card.Header>
             <Card.Content>
+            <Media>
+              <Media.Item as="figure" align="left">
+                <Image.Container as="p" size={96}>
+                  <Image
+                    alt="Consistec"
+                    src={AdiretoImg}
+                  />
+                </Image.Container>
+              </Media.Item>
+              <Media.Item align="content">
+                <Content>
+                  <Title size={5}>Fullstack Software Engineer <Tag color='dark'>Adireto</Tag></Title>
+                  <p>Desenvolvimento web fullstack, utilizando as tecnologias: Typescript, Nestjs, React, RabbitMQ,
+                    MongoDB, GraphicQL eRedis.</p>
+                  <p>Consulta em APIs externas </p>
+                  <p>Tratamento de dados</p>
+                  <p>Criação de interfaces</p>
+                </Content>
+              </ Media.Item>
+              </Media>
+
               <Media>
               <Media.Item as="figure" align="left">
                 <Image.Container as="p" size={96}>
