@@ -52,11 +52,9 @@ function About() {
               <Media.Item align="content">
                 <Content>
                   <Title size={5}>Fullstack Software Engineer <Tag color='dark'>Adireto</Tag></Title>
-                  <p>Desenvolvimento web fullstack, utilizando as tecnologias: Typescript, Nestjs, React, RabbitMQ,
-                    MongoDB, GraphicQL e Redis.</p>
-                  <p>Consulta em APIs externas </p>
-                  <p>Tratamento de dados</p>
-                  <p>Criação de interfaces</p>
+                  <p> Uso de ferramentas de controle de versionamento e tarefas (GitHub e Asana).</p>
+                  <p>Criação e manutenção de API's e microsserviços em NestJs, utilizando Mongodb, GraphicQL, Typescript, RabbitMQ e Redis.</p>
+                  <p>Criação de micro-frontend's em ReactJs, Apollo Client, GraphicQL e React Bootstrap.</p>
                 </Content>
               </ Media.Item>
               </Media>
